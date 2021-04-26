@@ -1,3 +1,7 @@
+# Research Internship for Undergraduates
+
+#### A comprehensive list of research opportunities for undergraduate students, sorted according to the deadline (month) of each application.
+
 Your contributions are vital to keep the list updated. Kindly add / mention any new opportunity you discover and update the out-dated ones, if any. I'll ennsure that any such modifications to this `README.md` that are raised as an issue or submitted as a pull request, will be reviewed and added, then and there.
 
 
